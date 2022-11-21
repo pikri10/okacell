@@ -170,18 +170,6 @@ nav.navbar.navbar-default {
     text-align: center;
 }
 
-.container_2 {
-    background-color: darkviolet;
-}
-
-.container_3 {
-    background-color: crimson;
-}
-
-.container_4 {
-    background-color: deepskyblue
-}
-
 #gallery .container h1 {
     text-align: center;
     font-family: raleway;
@@ -236,7 +224,7 @@ button {
 }
 
 .container {
-    max-width: 1170px;
+    max-width: 1400px;
     margin: auto;
 }
 
